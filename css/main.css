@@ -1,0 +1,53 @@
+
+header{
+  background: #F78E69;
+  height: 150px;
+  color:#fff;
+
+}
+
+footer{
+  background: #F78E69;
+  padding-top: 10px;
+  height: 60px;
+  color:#fff;
+}
+
+.img-one{
+	object-fit:cover;
+	width: 100%;
+}
+
+.pink{
+	background: #F78E69;
+	height: 30em;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+.pink_2{
+	background: #F78E69;
+	color: #fff;
+}
+
+.green{
+	background: #ABE188;
+	padding-top: 3em;
+	height: 30em;
+}
+
+.pink_3{
+	background: #F78E69;
+	padding-top: 2.5em;
+	color: #fff;
+	height: 20em;
+}
+
+.img-two{
+	border: 10px solid white;
+
+}
+.padd{
+	padding: 20px;
+}
+
